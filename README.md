@@ -1,0 +1,2 @@
+# Solving-Second-Order-Linear-DEs
+This was a lab (5) I coded from scratch for a second year ordinary differential equations course. It consists of 1 separate function file (DE2_wangrush.m), which I've written to solve second order linear differential equations. The lab5_wangrush file contains screenshots of solutions, plotted with MATLAB's iode, and comparisons of my second-order DE solver with MATLAB's built-in solver.
